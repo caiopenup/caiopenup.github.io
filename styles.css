@@ -12,12 +12,10 @@
   }
   
   .container {
-    -webkit-font-smoothing: antialised;
+    -webkit-font-smoothing: antialiased;
     width: 390px;
-    padding: 16px;
     background: #FFFDFB;
-    margin: 16px auto;
-    height: 844px;
+    margin: 0 auto;
   }
   .bg-beige {
     background: #FFF8ED;
