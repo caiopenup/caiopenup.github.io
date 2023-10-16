@@ -14,7 +14,7 @@
   .container {
     -webkit-font-smoothing: antialised;
     width: 390px;
-    padding: 0 16px;
+    padding: 16px;
     background: #FFFDFB;
     margin: 16px auto;
     height: 844px;
