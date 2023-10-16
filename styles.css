@@ -1,0 +1,24 @@
+.f-heading {
+    font-family: 'Noto Serif', serif;
+    color: #152361;
+  }
+  .f-body {
+  font-family: 'Montserrat', sans-serif;
+    color: #152361;
+  }
+  
+  .text-light {
+    color: #5B6590;
+  }
+  
+  .container {
+    -webkit-font-smoothing: antialised;
+    width: 390px;
+    padding: 0 16px;
+    background: #FFFDFB;
+    margin: 16px auto;
+    height: 844px;
+  }
+  .bg-beige {
+    background: #FFF8ED;
+  }
